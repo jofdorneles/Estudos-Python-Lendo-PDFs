@@ -1,2 +1,2 @@
-# Estudos-Python-Lendo-PDFs
+# Estudos-Python
 Projetos de cursos/capacitações em python
